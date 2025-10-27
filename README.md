@@ -13,4 +13,6 @@ Optimized tracking stability and reduced ID switching while maintaining high inf
 Developed skills in model training, feature extraction, and system integration for real-time tracking applications.
 
 **Results:**
-Watch the tracking results here: [YouTube Video](https://www.youtube.com/watch?v=-Jkb-lPHKxc&t=1s)
+Watch the tracking results here: [YouTube Video](https://www.youtube.com/watch?v=-Jkb-lPHKxc&t)
+**Results:**  
+<a href="https://www.youtube.com/watch?v=-Jkb-lPHKxc&t" target="_blank">YouTube Video</a>
