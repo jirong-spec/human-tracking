@@ -1,4 +1,4 @@
-#**Human Tracking (MOT Project)**
+# **Human Tracking (MOT Project)**
 
 This project is an academic homework for Multi-Object Tracking (MOT). It demonstrates real-time human detection and tracking using computer vision techniques.
 
