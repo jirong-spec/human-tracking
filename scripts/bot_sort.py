@@ -55,7 +55,7 @@ class BoTSORT:
                     iou_cost = 1 - bbox_iou(track.bbox, bbox)
                     feat_cost = 1 - np.dot(track.feature, det_feat) if (track.feature is not None and det_feat is not None) else 1.0
 
-                    # 計算動態權重
+                    # 取得權重
                     alpha_iou = self.alpha_iou 
                     alpha_feat = self.alpha_feat 
                     
