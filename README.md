@@ -2,7 +2,7 @@
 
 This project is an academic homework for Multi-Object Tracking (MOT). It demonstrates real-time human detection and tracking using computer vision techniques.
 
-Project Highlights:
+**Project Highlights:**
 
 Implemented real-time tracking with object detection and Kalman Filter-based tracking.
 
@@ -12,5 +12,5 @@ Optimized tracking stability and reduced ID switching while maintaining high inf
 
 Developed skills in model training, feature extraction, and system integration for real-time tracking applications.
 
-Results:
+**Results:**
 Watch the tracking results here: [YouTube Video](https://www.youtube.com/watch?v=-Jkb-lPHKxc&t=1s)
