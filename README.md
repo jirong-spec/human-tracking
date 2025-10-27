@@ -14,5 +14,3 @@ Developed skills in model training, feature extraction, and system integration f
 
 **Results:**
 Watch the tracking results here: [YouTube Video](https://www.youtube.com/watch?v=-Jkb-lPHKxc&t)
-**Results:**  
-<a href="https://www.youtube.com/watch?v=-Jkb-lPHKxc&t" target="_blank">YouTube Video</a>
